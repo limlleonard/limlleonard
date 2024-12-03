@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Menglin / Leonard 👋
 
+- I'm a python developer
+- I like building stuff with python for backend and javascript for frontend
+- I'm looking for a job as a python developer
 <!--
 **limlleonard/limlleonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
