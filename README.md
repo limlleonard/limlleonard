@@ -1,8 +1,8 @@
 ## Hi, I'm Menglin / Leonard 👋
 
-- I'm a Python developer
+- I'm a full-stack developer
 - I like building stuff with Python for backend and JavaScript for frontend
-- I'm looking for a job as a Python developer
+- I'm looking for a job as a full-stack developer
 
 ## My coding history
 - In school: (No, I haven't start coding in school yet) I like playing (chinese)chess and other board games, which helped to train my logic thinking
